@@ -14,4 +14,6 @@ And the up-axis, working units, animation framerate and grid size will automatic
 - *reload(setupUnreal)*
 - *reload(setupUnity)*
 
+If at any time the grid goes weird just create a new scene and run the *reload()* method again.
+
 No more tiny models in Unity or weirdly-rotated static meshes in Unreal!
